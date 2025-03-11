@@ -1,1 +1,2 @@
-validate scripts goes here
+#!/bin/bash
+echo "app validation!!"
